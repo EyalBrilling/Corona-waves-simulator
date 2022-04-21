@@ -9,6 +9,6 @@ run via .py file:
 run via .exe file:
 double click ex1.exe
 
-
+https://github.com/EyalBrilling/Corona-waves-simulator
 
  

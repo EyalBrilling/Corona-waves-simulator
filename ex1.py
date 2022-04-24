@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Canvas,Frame,Tk
 import random
 from easygui import *
 import math

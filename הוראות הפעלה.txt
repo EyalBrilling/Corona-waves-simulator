@@ -7,9 +7,10 @@ run via .py file:
 	python ex1.py 
 
 OR
-1) Download all project files(required libraries are included)
+
+1. Download all project files(required libraries are included)
 run via .exe file:
-double click ex1.exe
+2. double click ex1.exe
 
 https://github.com/EyalBrilling/Corona-waves-simulator
 

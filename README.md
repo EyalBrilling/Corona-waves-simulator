@@ -1,5 +1,5 @@
 # Corona-waves-simulator
-Project in the course "Computational Biology" by Eyal Haber and Eyal Brilling
+Project in the course "Computational Biology" by **Eyal Haber** and **Eyal Brilling**
 
 
 run via .py file:
